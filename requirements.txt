@@ -1,9 +1,6 @@
-﻿pandas
-matplotlib
-seaborn
-transformers==4.40.1
-torch
-plotly
 streamlit
+pandas
+plotly
 reportlab
-kaleido
+transformers==4.38.2
+torch
