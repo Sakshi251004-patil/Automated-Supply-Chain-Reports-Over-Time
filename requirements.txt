@@ -4,3 +4,4 @@ plotly
 reportlab
 transformers==4.38.2
 torch
+kaleido==0.2.1
